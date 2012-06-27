@@ -1,4 +1,3 @@
-first_app
-=========
+# Ruby on rails tutorial: first application. 
 
-RoR tutorial
+This is the first application for Ruby On Rails, by [Ryan](http://ryansrogers.com)
